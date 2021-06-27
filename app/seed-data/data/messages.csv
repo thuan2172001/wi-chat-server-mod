@@ -1,0 +1,277 @@
+code,conversation,sender,content,type,sendAt
+0,0,0,iamzero,text,2020-07-21T09:55:01.000Z
+1,0,1,iamone,text,2020-07-21T09:56:08.000Z
+2,0,2,iamtwo,text,2020-07-21T09:56:04.000Z
+4,1,1,Hi,text,2020-06-03T13:52:29.000Z
+5,1,1,Help,text,2020-06-03T13:52:30.000Z
+7,8,6,jiji,text,2020-06-11T02:52:28.000Z
+9,3,3,123,text,2020-06-11T03:27:14.000Z
+49,24,13,alo alo,text,2020-07-17T04:04:36.000Z
+50,24,13,alo alo,text,2020-07-17T04:05:25.000Z
+51,24,13,1234,text,2020-07-17T04:05:50.000Z
+52,24,13,12345,text,2020-07-17T04:06:06.000Z
+53,34,25,ê,text,2020-07-20T03:33:14.000Z
+54,35,25,ê,text,2020-07-20T03:33:40.000Z
+60,35,25,2,text,2020-07-20T04:30:18.000Z
+61,35,25,http://localhost:5001/Help_Desk-i2g_quang/MonJul20202004:30:42GMT+0000(UTC)happy_awesome_face_sticker.jpg,image,2020-07-20T04:30:42.000Z
+66,35,25,https://3.bp.blogspot.com/-U_ZPPtGK6XM/TrK5HFWZw-I/AAAAAAAAAxg/jaEDid-rxcE/s1600/Wallpaper___Abstract_IX_by_dizfunctionality.jpg,text,2020-07-20T04:36:38.000Z
+69,35,24,ok,text,2020-07-20T04:39:58.000Z
+70,35,25,1,text,2020-07-20T04:44:44.000Z
+78,35,25,2,text,2020-07-20T07:13:59.000Z
+85,35,25,1,text,2020-07-21T07:21:54.000Z
+120,35,25,2,text,2020-07-21T09:54:56.000Z
+121,35,26,2,text,2020-07-21T09:55:01.000Z
+122,35,22,ko thấy đc ảnh,text,2020-07-21T09:56:08.000Z
+123,35,22,https://3.bp.blogspot.com/-U_ZPPtGK6XM/TrK5HFWZw-I/AAAAAAAAAxg/jaEDid-rxcE/s1600/Wallpaper___Abstract_IX_by_dizfunctionality.jpg,text,2020-07-21T09:56:18.000Z
+124,35,22,https://www.slideserve.com/liang/deterministic-petrophysics,text,2020-07-21T09:56:34.000Z
+125,35,22,gửi link ko dc hở,text,2020-07-21T09:56:43.000Z
+126,35,25,chưa có tính năng đấy,text,2020-07-21T09:56:59.000Z
+127,35,22,cho cái gửi link nữa đi,text,2020-07-21T09:57:18.000Z
+128,35,22,vs lại gửi doc đồ đc hảm,text,2020-07-21T09:57:26.000Z
+129,35,22,http://localhost:5001/Help_Desk-i2g_quang/1595325452718License README.docx,file,2020-07-21T09:57:34.000Z
+130,35,25,bảo thầy nhé,text,2020-07-21T09:57:35.000Z
+131,35,22,thầy có đang ở đó ko?,text,2020-07-21T09:57:58.000Z
+132,35,25,ko,text,2020-07-21T09:58:01.000Z
+133,35,22,thầy que?,text,2020-07-21T09:58:08.000Z
+134,35,25,ko bit,text,2020-07-21T09:58:28.000Z
+135,35,22,group c ko add đc thêm 3 bạn supporter,text,2020-07-21T09:58:42.000Z
+136,35,22,chia ca ra support chứ 1 mình mệt lắm,text,2020-07-21T09:58:54.000Z
+137,35,25,dc r đấy,text,2020-07-21T09:59:26.000Z
+138,35,22,sdt của Trang ( 0388752173,text,2020-07-21T10:00:05.000Z
+139,35,22,Long: 0365854612,text,2020-07-21T10:00:30.000Z
+140,35,25,tự add đi,text,2020-07-21T10:00:34.000Z
+141,35,22,ko add dc,text,2020-07-21T10:00:43.000Z
+142,35,25,add dc r,text,2020-07-21T10:00:46.000Z
+143,35,22,add chỗ nào v,text,2020-07-21T10:01:32.000Z
+144,35,22,có gửi ảnh á,text,2020-07-21T10:01:35.000Z
+145,35,22,lỗi ròi,text,2020-07-21T10:01:44.000Z
+146,35,22,chat hiện 2 lần,text,2020-07-21T10:01:51.000Z
+147,35,25,chat nào,text,2020-07-21T10:02:38.000Z
+148,35,22,à quên,text,2020-07-21T10:07:09.000Z
+149,35,22,vẫn bì này,text,2020-07-21T10:07:15.000Z
+150,35,25,f5,text,2020-07-21T10:08:03.000Z
+151,35,22,ok,text,2020-07-21T10:08:22.000Z
+152,35,22,đc ròi,text,2020-07-21T10:08:25.000Z
+153,35,22,ngon ròi,text,2020-07-21T10:08:27.000Z
+154,35,22,xinh xăn đẹp gái ngay,text,2020-07-21T10:08:32.000Z
+155,35,25,them đc member chưa,text,2020-07-21T10:09:09.000Z
+156,35,22,gửi hình đi,text,2020-07-21T10:30:10.000Z
+157,35,22,gửi file đi,text,2020-07-21T10:32:15.000Z
+158,35,22,thấy gửi file ko dc,text,2020-07-21T10:32:21.000Z
+159,35,25,http://localhost:5001/Help_Desk-i2g_quang/1595328022268happy_awesome_face_sticker.jpg,image,2020-07-21T10:40:22.000Z
+160,35,25,http://localhost:5001/Help_Desk-i2g_quang/15953281192881.csv,file,2020-07-21T10:41:59.000Z
+161,35,22,ok ok,text,2020-07-21T10:48:54.000Z
+162,35,22,ok,text,2020-07-21T10:49:00.000Z
+163,35,22,ủa lại bị ròi,text,2020-07-21T10:49:04.000Z
+164,35,22,alo,text,2020-07-21T10:49:15.000Z
+165,35,22,à lại hết bị 2 tin nhắn,text,2020-07-21T10:49:21.000Z
+166,35,22,troll à,text,2020-07-21T10:49:24.000Z
+167,35,22,nó bị gì á,text,2020-07-21T10:49:34.000Z
+168,35,22,mới nãy bị 2 tin nhắn như cũ xong,text,2020-07-21T10:49:45.000Z
+169,35,25,điều tra sau nhé =]]],text,2020-07-21T11:07:00.000Z
+170,35,25,bị thì f5 thôi,text,2020-07-21T11:07:03.000Z
+171,35,2,ủa nó ra tkhoan khác này,text,2020-07-22T03:10:35.000Z
+172,35,25,:@,text,2020-07-23T08:39:18.000Z
+173,35,24,1,text,2020-07-28T04:01:51.000Z
+174,35,24,2,text,2020-07-28T04:02:16.000Z
+175,35,24,3,text,2020-07-28T04:05:44.000Z
+176,35,24,4,text,2020-07-28T04:06:04.000Z
+177,35,24,5,text,2020-07-28T04:06:09.000Z
+178,35,24,6,text,2020-07-28T04:18:37.000Z
+179,35,24,1,text,2020-07-28T08:59:18.000Z
+182,35,25,hi,text,2020-08-05T09:51:10.000Z
+189,35,2,hihi,text,2020-08-05T10:00:01.000Z
+194,35,25,tung test,text,2020-08-06T10:54:48.000Z
+76,36,26,1,text,2020-07-20T07:13:31.000Z
+77,36,26,2,text,2020-07-20T07:13:42.000Z
+80,36,26,hoang,text,2020-07-21T02:36:24.000Z
+81,36,26,123,text,2020-07-21T02:36:29.000Z
+82,36,26,123,text,2020-07-21T02:36:37.000Z
+83,36,22,chat gì a,text,2020-07-21T03:57:17.000Z
+84,36,26,http://localhost:5001/Help_Desk-i2g_hoang/TueJul21202004:39:08GMT+0000(UTC)happy_awesome_face_sticker.jpg,image,2020-07-21T04:39:07.000Z
+86,36,26,hello,text,2020-07-21T08:43:30.000Z
+87,36,26,help me!!!,text,2020-07-21T08:50:55.000Z
+90,36,26,http://localhost:5001/Help_Desk-i2g_hoang/1595321939978happy_awesome_face_sticker.jpg,image,2020-07-21T08:58:59.000Z
+91,36,22,failed to load image ròi,text,2020-07-21T09:00:51.000Z
+92,36,22,failed to load image ròi,text,2020-07-21T09:00:53.000Z
+93,36,22,failed to load image ròi,text,2020-07-21T09:00:57.000Z
+94,36,22,failed to load image ròi,text,2020-07-21T09:01:07.000Z
+95,36,22,failed to load image ròi,text,2020-07-21T09:01:18.000Z
+96,36,22,failed to load image ròi,text,2020-07-21T09:02:03.000Z
+97,36,22,failed to load image ròi,text,2020-07-21T09:02:21.000Z
+98,36,22,failed to load image ròi,text,2020-07-21T09:02:22.000Z
+99,36,22,failed to load image ròi,text,2020-07-21T09:02:22.000Z
+106,36,22,failed to load image ròi,text,2020-07-21T09:02:22.000Z
+100,36,26,ơ,text,2020-07-21T09:02:26.000Z
+101,36,26,ơ,text,2020-07-21T09:02:27.000Z
+102,36,26,ơ,text,2020-07-21T09:02:27.000Z
+103,36,26,ơ,text,2020-07-21T09:02:28.000Z
+104,36,26,ơ,text,2020-07-21T09:02:29.000Z
+105,36,26,ơ,text,2020-07-21T09:02:30.000Z
+107,36,22,failed to load image ròi,text,2020-07-21T09:02:35.000Z
+108,36,22,chat bị lag ròi,text,2020-07-21T09:03:10.000Z
+109,36,26,1,text,2020-07-21T09:05:15.000Z
+113,36,26,2,text,2020-07-21T09:08:09.000Z
+114,36,22,3,text,2020-07-21T09:08:19.000Z
+115,36,26,1,text,2020-07-21T09:29:09.000Z
+116,36,22,đây,text,2020-07-21T09:42:20.000Z
+117,36,22,alo alo,text,2020-07-21T09:43:52.000Z
+118,36,26,2,text,2020-07-21T09:54:11.000Z
+119,36,26,2,text,2020-07-21T09:54:19.000Z
+88,5,4,Thuy cho,text,2020-07-21T08:52:56.000Z
+89,5,4,Hello I2G,text,2020-07-21T08:55:08.000Z
+210,5,4,just testing,text,2020-08-10T10:15:50.000Z
+213,5,2,oo2,text,2020-08-10T10:40:36.000Z
+293,5,4,http://localhost:5001/Help_Desk-ess_duyenngo/1602814746561test_chat.mp4,file,2020-10-16T02:19:07.000Z
+294,5,4,http://localhost:5001/Help_Desk-ess_duyenngo/1602816247718testingvv.pnj,file,2020-10-16T02:44:08.000Z
+344,5,23,alo,text,2021-03-22T09:39:41.000Z
+110,18,9,hello,text,2020-07-21T09:06:58.000Z
+111,18,9,anybody there?,text,2020-07-21T09:07:18.000Z
+112,18,22,tao đây,text,2020-07-21T09:07:37.000Z
+183,57,24,help,text,2020-08-05T09:52:04.000Z
+190,57,2,me đây,text,2020-08-05T10:00:10.000Z
+185,23,12,Hello,text,2020-08-05T09:55:40.000Z
+186,23,12,anybody there,text,2020-08-05T09:55:45.000Z
+187,23,2,vâng e đây,text,2020-08-05T09:59:46.000Z
+188,23,2,I am here,text,2020-08-05T09:59:54.000Z
+192,23,12,Test help desk,text,2020-08-06T01:27:08.000Z
+193,23,12,Telegram,text,2020-08-06T01:27:14.000Z
+195,55,37,Hi would  it be possible to look into an issue we are having with the Chrysaor JWL database. This started yesterday and is continuing today. Sometimes it works ok for 20mins then gives an error. At the moment I am unable to connect to it. Thank you,text,2020-08-06T11:39:47.000Z
+196,55,8,I am checking our system and get back to you soon,text,2020-08-06T12:18:31.000Z
+197,55,8,Sorry for this inconvenience,text,2020-08-06T12:18:52.000Z
+198,55,37,Thank you for looking into this.,text,2020-08-06T12:26:59.000Z
+199,55,8,You are welcome,text,2020-08-06T12:29:06.000Z
+200,55,8,After a careful checking  we did not find any abnormal thing in our system. But we continue observing that issue.,text,2020-08-06T13:57:48.000Z
+201,55,8,Please tell me if it comes back.,text,2020-08-06T13:58:54.000Z
+202,55,37,Thanks again for checking.,text,2020-08-06T14:10:11.000Z
+222,55,37,Hi  how do I change the depth track units from metres to feet?,text,2020-10-12T13:10:54.000Z
+223,55,37,Problem solved  no need to reply.,text,2020-10-12T13:12:31.000Z
+224,55,37,Hi ,text,2020-10-13T09:02:27.000Z
+225,55,23,Hi,text,2020-10-13T09:03:14.000Z
+226,55,37,I'm having an issue trying to display the shading for VCL  SAND and LIME curves. I'm able to display the SAND and VCL ok but it doesn't seem to display the LIME correctly.,text,2020-10-13T09:03:40.000Z
+227,55,37,Would it be possible to take a look where i've gone wrong?,text,2020-10-13T09:04:01.000Z
+228,55,23,Oke Adam  I am checking our system first,text,2020-10-13T09:04:56.000Z
+229,55,23,Could you take a photo of that issue?,text,2020-10-13T09:06:19.000Z
+230,55,37,http://localhost:5001/Help_Desk-cds_adam/1602580219898Lith Issue_01.PNG,image,2020-10-13T09:10:20.000Z
+231,55,37,http://localhost:5001/Help_Desk-cds_adam/1602580220890Lith Issue_02.PNG,image,2020-10-13T09:10:21.000Z
+232,55,37,Did you receive the images ok?,text,2020-10-13T09:11:45.000Z
+233,55,23,Well recieved,text,2020-10-13T09:11:56.000Z
+234,55,37,Images sent,text,2020-10-13T09:12:34.000Z
+235,55,23,I am checking,text,2020-10-13T09:12:51.000Z
+236,55,8,Hi Adam,text,2020-10-13T09:14:06.000Z
+237,55,8,I am sorry for letting you wait!,text,2020-10-13T09:14:45.000Z
+238,55,8,From your first image  you are setting the lime curve is the first them the VCL is second,text,2020-10-13T09:16:17.000Z
+239,55,8,So that's why you can not see the shading of lime,text,2020-10-13T09:17:09.000Z
+240,55,8,Could you change the VCL shading that will be between VCL curve and Lime curve  the Lime shading will be between left and Lime curve and Sand shading will be between Right and Sand curve?,text,2020-10-13T09:21:08.000Z
+241,55,8,Please let me know if it does not work!,text,2020-10-13T09:22:24.000Z
+242,55,37,Thanks  I'll give it a try,text,2020-10-13T09:28:11.000Z
+243,55,37,It's closer but still not quite right  new image sent,text,2020-10-13T09:44:25.000Z
+244,55,37,http://localhost:5001/Help_Desk-cds_adam/1602582273904Lith Issue_03.PNG,image,2020-10-13T09:44:34.000Z
+245,55,4,http://localhost:5001/Help_Desk-cds_adam/16025835444091.PNG,image,2020-10-13T10:05:44.000Z
+246,55,4,if you want to display 3 curves as a cumulative mode  you should set the left and right scale as the same (as the above image),text,2020-10-13T10:07:31.000Z
+247,55,4,http://localhost:5001/Help_Desk-cds_adam/16025836596312.PNG,image,2020-10-13T10:07:39.000Z
+248,55,4,and try the shading setting like that. hope it helps,text,2020-10-13T10:08:29.000Z
+249,55,37,Thank you  that's worked a treat.,text,2020-10-13T10:20:47.000Z
+250,55,4,You're welcome. Please let us know if you need help,text,2020-10-13T10:30:13.000Z
+252,55,8,Hi Adam!,text,2020-10-13T14:59:08.000Z
+253,55,8,Could you please resend me your image?,text,2020-10-13T14:59:29.000Z
+254,55,8,I have not received any yet,text,2020-10-13T14:59:55.000Z
+255,55,37,http://localhost:5001/Help_Desk-cds_adam/1602661977984Plot_01.PNG,image,2020-10-14T07:52:59.000Z
+256,55,37,I think the image was too big  I've sent a screen shot instead.,text,2020-10-14T07:53:38.000Z
+257,55,37,http://localhost:5001/Help_Desk-cds_adam/1602662035721Plot_02.PNG,image,2020-10-14T07:53:57.000Z
+258,55,37,Any ideas about how to resolve the issues?,text,2020-10-14T09:17:16.000Z
+260,55,37,Thank you for the comprehensive replay  I'll look forward to issue one been sorted. Regarding issue 2 I unselected the show title box for each track but part of the header still plotted.,text,2020-10-14T09:23:08.000Z
+261,55,4,You mean the text "/BRAVA-1"?,text,2020-10-14T09:27:27.000Z
+262,55,37,Yes that's correct,text,2020-10-14T09:33:29.000Z
+263,55,37,http://localhost:5001/Help_Desk-cds_adam/1602668136980Plot_03.PNG,image,2020-10-14T09:35:38.000Z
+264,55,37,http://localhost:5001/Help_Desk-cds_adam/1602668166435Plot_03.PNG,image,2020-10-14T09:36:07.000Z
+265,55,4,I got it. We will fix it and update you soon. Sorry for this inconvenience.,text,2020-10-14T09:36:14.000Z
+266,55,37,It looks fine before printing  thank you for your help.,text,2020-10-14T09:36:35.000Z
+267,55,4,please re-try the issue 3 and let me know if it doesn't work,text,2020-10-14T09:37:49.000Z
+269,55,4,http://localhost:5001/Help_Desk-cds_adam/16026719916612020-10-14_17-26-33.png,image,2020-10-14T10:39:51.000Z
+270,55,4,http://localhost:5001/Help_Desk-cds_adam/16026720885392020-10-14_17-36-34.png,image,2020-10-14T10:41:28.000Z
+271,55,37,Thank you. Issue 2 & 3 have now been resolved. I'm still having a problem with issue 1 and the depth track displaying correctly. I've tried with 1:500 and 1:100. there seems to be an 82ft difference between the major depth marks on the 1:500 scale.,text,2020-10-14T11:02:38.000Z
+272,55,37,http://localhost:5001/Help_Desk-cds_adam/1602673371616Plot_04.PNG,image,2020-10-14T11:02:53.000Z
+273,55,37,http://localhost:5001/Help_Desk-cds_adam/1602673389189Plot_05.PNG,image,2020-10-14T11:03:10.000Z
+275,55,4,http://localhost:5001/Help_Desk-cds_adam/16026738711972020-10-14_18-10-27.png,image,2020-10-14T11:11:11.000Z
+276,55,4,please set the depth tick from the Properties Editor dock,text,2020-10-14T11:11:42.000Z
+277,55,37,I have done this  however there is still an issue with the depth grid/ticks not matching the grid lines. Is it possible to have the grid lines parallel (see second image below) with the depth?,text,2020-10-14T11:20:13.000Z
+278,55,37,http://localhost:5001/Help_Desk-cds_adam/1602674419700Plot_06.PNG,image,2020-10-14T11:20:21.000Z
+279,55,37,http://localhost:5001/undefined/1602674431102Plot_07.PNG,image,2020-10-14T11:20:32.000Z
+280,55,8,Do you mean the matching between the log track grid and the depth stick?,text,2020-10-14T11:27:04.000Z
+281,55,37,Yes that's right,text,2020-10-14T11:29:17.000Z
+282,55,8,Currently  the feature of align depth stick with log track grid has not been emplemented yet.,text,2020-10-14T11:34:59.000Z
+283,55,37,Any idea when this will be solved  as until it is the plots won't be suitable for our clients?,text,2020-10-14T11:38:39.000Z
+284,55,8,I have just asked my college about this feature.,text,2020-10-14T11:47:19.000Z
+285,55,8,So sorry t,text,2020-10-14T11:47:26.000Z
+286,55,8,*so sorry for this inconvenience. We will try to do it asap,text,2020-10-14T11:48:08.000Z
+287,55,37,Thank you   much appreciated.,text,2020-10-14T11:50:40.000Z
+289,55,125,We will match the major sticks of grid matched with displaying values of depth and the distance bewteen every two minnor stick of grid will be a constant.,text,2020-10-15T14:47:47.000Z
+290,55,125,I mean ''major ticks  minnor ticks",text,2020-10-15T14:58:59.000Z
+291,55,125,The depth values will be rouded off when displaying at every major ticks on the track depth that is automatically displayed as Default mode and do not need to adjust by hand any more,text,2020-10-15T15:10:15.000Z
+292,55,125,Sorry for worng text  i mean "Rounded",text,2020-10-15T15:13:17.000Z
+299,55,125,http://localhost:5001/Help_Desk-cds_adam/1602842460662image_2020_10_16T09_56_54_303Z.png,image,2020-10-16T10:00:59.000Z
+300,55,37,Hi ,text,2020-10-19T12:31:16.000Z
+301,55,37,Apologies for not replying earlier  thank you so much that's fantastic news. I've just exported a plot and it's worked a treat.,text,2020-10-19T12:32:07.000Z
+305,55,125,Thank you Adam  it is great to hear that you have worked well with I2G.,text,2020-10-22T06:58:45.000Z
+203,82,48,Hello,text,2020-08-09T14:48:49.000Z
+204,82,48,May i get your help please?,text,2020-08-09T14:48:56.000Z
+205,82,8,Hi!,text,2020-08-09T14:50:48.000Z
+206,82,8,What can i help you?,text,2020-08-09T14:50:58.000Z
+211,82,4,hello,text,2020-08-10T10:16:41.000Z
+212,82,23,hello c Duyên,text,2020-08-10T10:21:24.000Z
+207,99,57,Hi chat,text,2020-08-10T03:47:26.000Z
+208,99,2,oh,text,2020-08-10T03:47:40.000Z
+209,99,2,ai v?,text,2020-08-10T03:53:50.000Z
+350,99,24,a,text,2021-06-25T09:39:43.000Z
+351,99,24,av,text,2021-06-25T09:39:48.000Z
+352,99,24,1,text,2021-06-25T09:40:26.000Z
+214,129,85,alo,text,2020-08-25T08:51:01.000Z
+215,129,85,duyen test,text,2020-08-25T08:51:04.000Z
+216,129,2,ngon,text,2020-08-25T08:51:42.000Z
+217,129,2,vẫn chạy ngon,text,2020-08-25T08:51:50.000Z
+295,129,4,http://localhost:5001/Help_Desk-revotech_quota/1602816266188testingvv.pnj,file,2020-10-16T02:44:27.000Z
+296,129,4,http://localhost:5001/Help_Desk-revotech_quota/1602816963041testingvv.pnj,file,2020-10-16T02:56:03.000Z
+297,129,4,http://localhost:5001/Help_Desk-revotech_quota/16028170598572X.las,file,2020-10-16T02:57:40.000Z
+218,130,86,Hello?,text,2020-08-31T05:05:05.000Z
+219,130,86,may i get your help please,text,2020-08-31T05:05:12.000Z
+220,130,2,Hi!,text,2020-08-31T05:05:23.000Z
+221,130,2,What can I help you?,text,2020-08-31T05:05:30.000Z
+303,163,115,hi,text,2020-10-21T18:07:21.000Z
+304,163,125,Hi  May i help you?,text,2020-10-22T01:14:46.000Z
+307,163,115,Also noticed that the MachineLearning module is showing as an external module. Not too sure if I might need to create a new project under MachineLearning?,text,2020-10-22T12:25:24.000Z
+308,163,4,Hi Bingjian,text,2020-10-22T12:32:29.000Z
+309,163,4,That's right. Just like the Well-Insight module (wi.i2g.cloud)  the ML is also an external module of the i2G platform therefore you have to create a new project for that,text,2020-10-22T12:36:43.000Z
+310,163,4,http://localhost:5001/Help_Desk-blackriver_bingjian/1603370240249ml_b.png,image,2020-10-22T12:37:21.000Z
+311,163,4,And the project that was created in well-insight module will be listed on the right side (as the above image),text,2020-10-22T12:39:04.000Z
+314,163,4,This is the software behavior. When you click "New" project  we will create a blank project immediately and clear all the settings from the previous project.,text,2020-10-22T13:14:12.000Z
+315,163,4,https://gyazo.com/7d38bc09912db645b749626e347ed723,text,2020-10-22T13:14:58.000Z
+316,163,4,please see this behavior in the link,text,2020-10-22T13:15:16.000Z
+317,163,4,After setting your project  you have to click "Save by name" option to save that new project to your database.,text,2020-10-22T13:17:16.000Z
+318,163,115,I got you and that's helpful. Now I saved a blank project already called ML_Test1. Could you advise how do I load my Las log files from my ladtop into this project?,text,2020-10-22T13:20:48.000Z
+319,163,115,Seems not seeing any data loading access there under ML.,text,2020-10-22T13:23:54.000Z
+321,163,4,In your case  do you see the project Test3 on the right side of the ML screen?,text,2020-10-22T13:38:17.000Z
+322,163,115,Yes  I do.,text,2020-10-22T13:44:00.000Z
+323,163,115,the data is loaded into my project in WI already under project Test3,text,2020-10-22T13:45:03.000Z
+324,163,115,Now the issue is how can I get the loaded data under WI project Test3 into Machine Learning project called ML_Test1,text,2020-10-22T13:46:13.000Z
+325,163,4,Now you just drag and drop datasets from the project list into 3 columns (Training  Verify and Prediction),text,2020-10-22T13:50:25.000Z
+326,163,4,please see the clip,text,2020-10-22T13:50:45.000Z
+327,163,4,https://gyazo.com/cf696f66ca8029ef36c14f99e4a6aa2f,text,2020-10-22T13:51:01.000Z
+328,163,115,Now I got you. Very helpful. Thank you so much. Will try it out for the rest. In case any further question  will let you know.. Thank you very much!,text,2020-10-22T13:58:23.000Z
+329,163,4,You're welcome. Please let us know whenever you need help.,text,2020-10-22T14:00:50.000Z
+330,163,115,Surely...,text,2020-10-22T14:14:26.000Z
+331,163,115,Good evening  One more question - Do you have any kind of plot available to help making a judgement if a built model is a good fit or over-fitting?,text,2020-10-26T13:19:27.000Z
+332,163,115,I can calculate a Correlation_Coefficient between the Target Curve and Modelled curve in the training data zone (or well). However  a high Correlation_Coefficient (i.e. cc=0.95) maybe a great fit or a totally over-fit as well. Wish to have another type of way (or plot) which could help on this judgement...,text,2020-10-26T13:26:29.000Z
+333,163,125,Hello Bingjian  Have a good day. for problem that you mentioned above. Please have a look at the picture below.,text,2020-10-27T09:13:20.000Z
+334,163,125,http://localhost:5001/Help_Desk-blackriver_bingjian/1603790049563ML_plot.png,image,2020-10-27T09:14:09.000Z
+335,163,125,http://localhost:5001/Help_Desk-blackriver_bingjian/1603790101491ML_plot.rar,file,2020-10-27T09:15:00.000Z
+336,163,125,Now i2g is using the Neural Network method with Convergence Plot as a picture.,text,2020-10-27T09:26:54.000Z
+337,163,125,Can you please tell me what kind of plot do you need? thank you,text,2020-10-27T10:11:20.000Z
+338,163,4,http://localhost:5001/Help_Desk-blackriver_bingjian/1603794124911ML_plot.png,image,2020-10-27T10:22:04.000Z
+339,127,83,hello Long,text,2020-12-28T02:23:37.000Z
+340,127,83,hello,text,2020-12-28T02:24:28.000Z
+345,42,29,Hi,text,2021-04-12T08:38:45.000Z
+346,42,24,???,text,2021-04-12T08:38:55.000Z
+347,42,125,hi  how can i help you?,text,2021-04-12T08:48:19.000Z
+348,42,24,???,text,2021-04-12T08:49:07.000Z
+349,42,23,anh Hoàng hả,text,2021-04-12T08:51:15.000Z

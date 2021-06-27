@@ -1,0 +1,20 @@
+import 'dotenv/config';
+
+export const { PROJECT_NAME } = process.env;
+export const { SERVER_PORT } = process.env;
+export const { MONGODB_URL } = process.env;
+export const { MONGODB_USER } = process.env;
+export const { MONGODB_PASS } = process.env;
+export const { MONGODB_DATABASE } = process.env;
+export const { API_PREFIX } = process.env;
+export const { MONGODB_EXPRESS_PORT } = process.env;
+export const { MONGODB_PORT } = process.env;
+export const { CHECK_AUTH } = process.env;
+export const { CHECK_CHANGE_PASSWORD } = process.env;
+export const { CHECK_REQUEST_SIGNATURE } = process.env;
+export const { CHECK_BLOCKCHAIN } = process.env;
+export const { UPLOAD_PATH } = process.env;
+export const { SEED_DATA } = process.env;
+export const { VERSION } = process.env;
+export const { MEMORY_LIMIT } = process.env;
+export const { MEMORY_RESERVATIONS } = process.env;
