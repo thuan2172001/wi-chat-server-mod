@@ -20,6 +20,8 @@
 /build
 /deploy/build
 /deploy/dev/.env
+/app/database/upload/
+
 # misc
 .DS_Store
 .env.local

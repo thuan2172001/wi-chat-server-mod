@@ -1,3 +1,5 @@
+import { io } from '../../../main'
+
 const Conversation = require('../../../models/conversation');
 const User = require('../../../models/user');
 const Message = require('../../../models/message');
@@ -46,6 +48,8 @@ const createMessage = async (body) => {
     sender: senderUser._id,
     sendAt,
   });
+
+  io.in(idConversation).emit('sendMessage', body)
 
   return message.save();
 };

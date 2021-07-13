@@ -1,7 +1,7 @@
 import User from '../../../models/user';
 import Role from '../../../models/role';
 import { createRandomColor } from '../../../utils/random-color'
-import { success, serverError } from '../../../utils/response-utils';
+import { fakeCompany, fakeUser } from '../conversation/fakeData';
 const { axios } = require('axios');
 const jwt = require('jsonwebtoken');
 
@@ -52,12 +52,12 @@ const getListCompany = async (req, res) => {
   // }).catch(err => {
   //   return res.json(serverError(err.message));
   // });
-  console.log(2)
+  return fakeCompany;
 }
 
 const getListUser = async () => {
   const userList = await User.find({})
-  return userList
+  return fakeUser;
   // return axios({
   //   method: 'post',
   //   url: `http://admin.dev.i2g.cloud/user/list`,

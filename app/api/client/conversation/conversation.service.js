@@ -28,7 +28,7 @@ const getListConversation = async (req, res) => {
         content: message.content,
         sendAt: message.sendAt,
         type: message.type,
-        User: user,
+        user: user,
       }
 
       return newMessage;

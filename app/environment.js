@@ -18,3 +18,5 @@ export const { SEED_DATA } = process.env;
 export const { VERSION } = process.env;
 export const { MEMORY_LIMIT } = process.env;
 export const { MEMORY_RESERVATIONS } = process.env;
+export const { UPLOAD_DIR } = process.env;
+export const { URL } = process.env;

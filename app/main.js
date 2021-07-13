@@ -26,7 +26,8 @@ const morgan = require('morgan');
 const app = express();
 const server = require('http').Server(app);
 const fs = require('fs');
-
+const io = require('socket.io')(server);
+require('./socket.io/socket.io').socket_io.connect(io);
 
 module.exports = () => {
 	console.log('Bootstrap starting time', new Date());
@@ -92,3 +93,4 @@ module.exports = () => {
 };
 
 module.exports.server = server;
+module.exports.io = io;

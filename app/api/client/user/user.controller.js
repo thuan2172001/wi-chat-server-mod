@@ -32,13 +32,24 @@ api.post('/login', async (req, res) => {
 });
 
 api.post('/company/list', async (req, res) => {
-  return UserService.getListCompany(req, res)
+  const companyList = await UserService.getListCompany()
+  const body = {
+    code: 200,
+    content: companyList,
+    reason: "Successfully"
+  }
+  return res.json(success({body}))
 })
 
 api.post('/user/list', async (req, res) => {
   try {
     const userList = await UserService.getListUser()
-    return res.json(success({ userList }))
+    const body = {
+      code: 200,
+      content: userList,
+      reason: "Successfully"
+    }
+    return res.json(success({ body }))
   } catch (err) {
     error(`${req.method} ${req.originalUrl}`, err.message);
     return res.json(serverError(err.message));

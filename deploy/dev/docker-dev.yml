@@ -73,6 +73,9 @@ services:
       - CHECK_REQUEST_SIGNATURE
       - CHECK_CHANGE_PASSWORD
       - SEED_DATA
+      - UPLOAD_DIR
+      - UPLOAD_PATH
+      - URL
     ports:
       - ${SERVER_PORT}:${SERVER_PORT}
       - 9229:9229
