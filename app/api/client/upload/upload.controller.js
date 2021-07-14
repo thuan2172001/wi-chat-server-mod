@@ -6,7 +6,7 @@ import UploadService from './upload.service';
 
 const multiparty = require('connect-multiparty');
 const multipartyMiddleware = multiparty({
-    maxFilesSize: 50*1024*1024
+  maxFilesSize: 50 * 1024 * 1024
 });
 const api = express.Router();
 
@@ -15,37 +15,47 @@ api.post('/upload', multipartyMiddleware, async (req, res) => {
     const { name } = req.body;
     const { file } = req.files;
     const pathFile = await UploadService.upload({ name, file })
-    console.log({pathFile})
-    return res.json(success({content: pathFile}));
+    console.log({ pathFile })
+    return res.json(success({ content: pathFile }));
   } catch (err) {
     return CommonError(req, err, res);
   }
 });
 
-api.post('/download/:folder/:fileName', multipartyMiddleware, async (req, res) => {
+api.get('/download/:fileName', async (req, res) => {
   try {
-    console.log(1)
+    const { fileName } = req.params;
+    const { file } = await UploadService.getFile(fileName)
+    // console.log({ file })
+    res.download(file);
   } catch (err) {
+    console.log({ stack: err.stack })
     return CommonError(req, err, res);
   }
 });
 
-api.post('/imageOrigin/:folder/:fileName', multipartyMiddleware, async (req, res) => {
+api.get('/imageOrigin/:fileName', async (req, res) => {
   try {
-    console.log(2)
+    const { folder, fileName } = req.params;
+    const { file } = await UploadService.getFile(fileName)
+    console.log({ file })
+    res.sendFile('/app/' + file);
   } catch (err) {
     return CommonError(req, err, res);
   }
 });
 
-api.post('/thumb/:folder/:fileName', multipartyMiddleware, async (req, res) => {
+api.get('/thumb/:fileName', async (req, res) => {
   try {
-    console.log(3)
+    const { fileName } = req.params;
+    const { file } = await UploadService.getFile(fileName)
+    // const pathOutFile = await UploadService.getThumb(fileName);
+    console.log({ file })
+    res.sendFile('/app/' + file)
   } catch (err) {
     return CommonError(req, err, res);
   }
 });
-
 
 module.exports = api;
 
