@@ -1,5 +1,5 @@
 import express from 'express';
-import { CheckAuthV2 } from '../../middlewares/auth.mid';
+import { CheckAuth } from '../../middlewares/auth.mid';
 import CommonError from '../../library/error';
 import { success } from '../../../utils/response-utils';
 import { io } from '../../../socket.io/socket.io'

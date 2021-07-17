@@ -38,7 +38,9 @@ const getThumb = async (fileName) => {
 };
 
 const getFile = async (fileName) => {
+    console.log({fileName})
     const files = globby.sync(`**/*${fileName}`)
+    console.log({files})
     if (files.length == 0) throw new Error('UPLOAD.FILE_NOT_FOUND')
     console.log({ files })
     return { file: files[0] }

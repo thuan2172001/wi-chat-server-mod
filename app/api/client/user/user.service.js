@@ -35,7 +35,7 @@ const credential = async ({
   } else {
     const user = await User.findOne({ username, password }).lean();
     if (!user) throw new Error('AUTH.ERROR.USER_NOT_FOUND');
-    const token = jwt.sign({ user }, 'secretKey')
+    const token = jwt.sign({ user: { ...user, password: "********" } }, 'secretKey')
     return { user, token }
   }
 }
