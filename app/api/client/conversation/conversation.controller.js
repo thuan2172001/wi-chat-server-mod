@@ -22,7 +22,7 @@ api.post('/conversation/update', CheckAuth, async (req, res) => {
 
 });
 
-api.post('/conversation/getDisableNoti', async (req, res) => {
+api.post('/conversation/getDisableNoti', CheckAuth, async (req, res) => {
   console.log('28', req.body)
 });
 

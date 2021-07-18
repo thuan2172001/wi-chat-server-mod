@@ -1,5 +1,5 @@
 import express from 'express';
-import { CheckAuthV2 } from '../../middlewares/auth.mid';
+import { CheckAuth, CheckAuthV2 } from '../../middlewares/auth.mid';
 import CommonError from '../../library/error';
 import { success } from '../../../utils/response-utils';
 import UploadService from './upload.service';
@@ -22,7 +22,7 @@ api.post('/upload', multipartyMiddleware, async (req, res) => {
   }
 });
 
-api.get('/download/:fileName', async (req, res) => {
+api.get('/download/:fileName', CheckAuth, async (req, res) => {
   try {
     const { fileName } = req.params;
     const { file } = await UploadService.getFile(fileName)
@@ -34,7 +34,7 @@ api.get('/download/:fileName', async (req, res) => {
   }
 });
 
-api.get('/imageOrigin/:fileName', async (req, res) => {
+api.get('/imageOrigin/:fileName', CheckAuth, async (req, res) => {
   try {
     const { folder, fileName } = req.params;
     const { file } = await UploadService.getFile(fileName)
@@ -45,7 +45,7 @@ api.get('/imageOrigin/:fileName', async (req, res) => {
   }
 });
 
-api.get('/thumb/:fileName', async (req, res) => {
+api.get('/thumb/:fileName', CheckAuth, async (req, res) => {
   try {
     const { fileName } = req.params;
     const { file } = await UploadService.getFile(fileName)

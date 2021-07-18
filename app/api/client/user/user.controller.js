@@ -1,5 +1,6 @@
 import express from 'express';
 import CommonError from '../../library/error';
+import { CheckAuth } from '../../middlewares/auth.mid';
 import UserService from './user.service';
 const User = require('../../../models/user');
 const { success, serverError } = require('../../../utils/response-utils');
@@ -31,7 +32,7 @@ api.post('/login', async (req, res) => {
   }
 });
 
-api.post('/company/list', async (req, res) => {
+api.post('/company/list', CheckAuth, async (req, res) => {
   const companyList = await UserService.getListCompany()
   const body = {
     code: 200,
@@ -41,7 +42,7 @@ api.post('/company/list', async (req, res) => {
   return res.json(success({body}))
 })
 
-api.post('/user/list', async (req, res) => {
+api.post('/user/list', CheckAuth, async (req, res) => {
   try {
     const userList = await UserService.getListUser()
     const body = {

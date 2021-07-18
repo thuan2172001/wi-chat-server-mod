@@ -13,6 +13,7 @@ const validateMessage = async (body) => {
   const conversation = await Conversation.findOne({
     code: idConversation,
   }).lean();
+
   if (!conversation) throw new Error('400.MESSAGE.POST.Conversation_NOT_FOUND');
 
   const sender = await User.find({
@@ -61,6 +62,7 @@ const validateSeenMessage = async (body) => {
     conversation: conversationId,
     user: userId,
   })
+  
   if (!conversation) throw new Error('400.MESSAGE.POST.Conversation_NOT_FOUND');
 
   return { conversationId, userId };
